@@ -21,8 +21,10 @@ Tratamento de Erros e Melhorias
 
 - Inclui métodos para lidar com falhas de conexão, respostas inesperadas e controle de logs para depuração eficiente.
 
--FERRAMENTAS DO PROJETO 
+#FERRAMENTAS DO PROJETO# 
+
 Por meio do serviço em nuvem foi possivel criar as interações, integrar os dados a ferramenta de manipulação, dentre esses foi utilizado.
+
 -BOT TELEGRAM
 - AWS Lambda
 - AWS S3
